@@ -227,14 +227,3 @@ java -cp bin com.banking.Main
    - Dynamic calculation of customer's consolidated net worth across all held accounts.
 
 ---
-
-## 🌐 100% Free Learning Resources for Java OOP
-
-1. **[Baeldung — Java OOP Complete Guide](https://www.baeldung.com/java-oop)**
-   - Industry-standard guides on Abstraction, Encapsulation, Polymorphism, and Inheritance.
-2. **[dev.java — Object-Oriented Programming Fundamentals](https://dev.java/learn/oop/)**
-   - Official Oracle tutorials explaining class definitions, interfaces, abstract classes, and records.
-3. **[University of Helsinki MOOC — Java Programming II (OOP Deep Dive)](https://java-programming.mooc.fi/)**
-   - Covers interfaces, polymorphism, abstract classes, and object references with interactive automated exercises.
-4. **[Refactoring.Guru — Design Patterns & SOLID Principles](https://refactoring.guru/design-patterns/java)**
-   - Visual explanations of how OOP concepts transition into real-world software design patterns.
